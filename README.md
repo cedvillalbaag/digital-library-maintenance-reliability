@@ -7,6 +7,8 @@ This repository serves as a personal digital library of key resources for the st
 The library includes a curated selection of relevant books and articles, organized by topic for easy searching:
 
 ### Maintenance and Reliability
+- Smith, Anthony. RCM—Gateway to World Class Maintenance. [Elsevier, 2004].
+- Kelly, Anthony. Maintenance Strategy, business-centred maintenance. [Elsevier, 1997].
 
 ### Analysis and Strategy
 
