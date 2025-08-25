@@ -9,6 +9,7 @@ The library includes a curated selection of relevant books and articles, organiz
 ### Maintenance and Reliability
 - Smith, Anthony. RCM—Gateway to World Class Maintenance. [Elsevier, 2004].
 - Kelly, Anthony. Maintenance Strategy, business-centred maintenance. [Elsevier, 1997].
+- Kelly, Anthony. Maintenance Systems and Documentation. [Elsevier, 2006]
 
 ### Analysis and Strategy
 
